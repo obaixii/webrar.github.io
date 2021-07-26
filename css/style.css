@@ -1,0 +1,212 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    line-height: 23px;
+}
+/* .hm-navbar */
+.hm-navbar{
+    width: 100%;
+}
+.hm-navbar span{
+    color: red;
+}
+.hm-navbar .navbar-color a{
+    color: black;
+}
+.hm-navbar .navbar-color a:hover{
+    color: #ff5722;
+    background-color: #1290a9;
+    border-bottom: 3px solid black;
+}
+.hm-navbar input{
+    width: 10%;
+    color: #ff5722;
+    background-color: white;
+    border-radius: 10%;
+    border-color: #1290a9;
+    padding: 2px 0px;
+    margin: 0px 0px;
+}
+/* display */
+.display{
+    position: relative;
+    margin-top: 30px;
+}
+.display .carousel-caption{
+    position: absolute;
+    top:25% ;
+    left: 10%;
+}
+/* info */
+.info{
+    position: relative;
+    margin-top: 35px;
+}
+.info-text{
+    text-align: center;
+    width: 20%;
+    position: absolute;
+    bottom: 100%;
+    left: 38%;
+}
+.info-text h2{
+    color: white;
+    background-color: #1290a9;
+}
+.info .row{
+    text-align: center;
+}
+.info .row-text{
+    margin-top: 15px;
+}
+.info .row-text a{
+    color: #1290a9;
+    text-decoration: none;
+}
+.info .fas{
+    margin-top: 10px;
+}
+.info .fas-color{
+    width: 40%;
+    color: white;
+    background-color: #1290a9;
+    border-radius: 20%;
+}
+
+/* porfolio */
+.port{
+    margin-top: 20px;
+    background-color: #2a2828;
+}
+.port-up h2{
+    color: #ff5722;
+}
+.port-down{
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0px;
+    padding: 10px 0px;
+}
+.port h4{
+    color: #ff5722;
+}
+.port p{
+    color: white;
+}
+.port img{
+    width: 93%;
+}
+/* services */
+.serv-text{
+    text-align: center;
+}
+.serv-text h2{
+    color: #1290a9;
+}
+.services .col h3{
+    color: #1290a9;
+}
+.services .row a{
+    color:#1290a9 ;
+    text-decoration: none;
+}
+.services .row .btn-primary {
+    color: #fff;
+    background-color: #1290a9;
+    border-color: #0d6efd;
+}
+/* staff */
+.staff{
+     margin-top: 30px;
+}    
+.staff{
+    text-align: center;
+}
+.staff-text{
+    text-align: center;
+}
+.staff-text h2{
+    color: white;
+    background-color:#1290a9;
+    width: 23%;
+    margin: 10px auto;
+}
+.staff .staff-head h5{
+    color:#ff5722;
+}
+.staff .sfas-color{
+    color: #ff5722;
+
+}
+/* footer */
+.footer{
+    color: white;
+    background-color: black;
+    margin-top: 30px;
+    padding-top: 15px;
+} 
+.footer .row h4{
+    color: #ff5722;
+}
+.footer a{
+    color:#1290a9 ;
+    text-decoration: none;
+}
+/* recent project div */
+.footer .row .rp{
+    display: flex;
+}
+.footer .row .rp-img{
+    width: 20%;
+}
+.footer .row .rp-img img{
+    width: 80%;
+}
+.footer .row .rp-text{
+    width: 80%;
+}
+/* contact div */
+.footer .row .f-icon{
+    display: flex;
+    margin: 15px 0px;
+}
+.footer .row .f-icon .f-fa{
+    width: 30%;
+}
+.footer .row .f-icon .f-text{
+    width: 70%;
+}
+.footer .row .f-icon .fas-color{
+    color:#1290a9 ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
